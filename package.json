@@ -1,0 +1,22 @@
+{
+  "name": "@moderation-api/node",
+  "version": "0.0.2",
+  "description": "Automatically detect personal information like email addresses and phone numbers - even if the user is trying to bypass detection",
+  "main": "index.js",
+  "author": "Moderation API <info@moderationapi.com> (https://moderationapi.com)",
+  "repository": {},
+  "license": "MIT",
+  "homepage": "https://moderationapi.com",
+  "keywords": [
+    "moderation",
+    "detect",
+    "personal data",
+    "pii",
+    "moderate",
+    "content moderation",
+    "filtering",
+    "api",
+    "automation",
+    "content"
+  ]
+}
